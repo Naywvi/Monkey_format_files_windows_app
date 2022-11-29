@@ -38,7 +38,7 @@ module.exports = class formats{
                     clearInterval(this.int)
                     this.generateLog("[✓] - The file was successfully formatted " + this.newFile)
                 }
-            },100)
+            },1)
     }
 
     generateLog(text){

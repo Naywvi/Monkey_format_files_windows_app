@@ -1,3 +1,5 @@
+# npm i
+
 # for use in npm scripts
 npm install electron-packager --save-dev
 
