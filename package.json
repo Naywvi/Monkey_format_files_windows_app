@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.1.12",
+    "electron-packager": "^17.1.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "n-readlines": "^1.0.1"
+  }
+}
